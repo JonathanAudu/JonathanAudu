@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Jonathan
 
-A junior PHP/Laravel developer who is familiar with PHP programming language and Laravel framework. I possess a solid understanding of PHP syntax, object-oriented programming concepts, and relational database management systems, MVC design patterns, and RESTful APIs. With a basic understanding of front-end development technologies like HTML, CSS, and JavaScript. I have good problem-solving skills, attention to detail, and the ability to work collaboratively in a team. Generally, I am a very enthusiastic and motivated developer who is eager to learn and grow in my role. I am open to feedback and willing to work hard to develop my skills and make valuable contributions to any development team.
+A PHP/Laravel developer who is familiar with PHP programming language and Laravel framework. I have a solid understanding of PHP syntax, object-oriented programming concepts, relational database management systems, MVC design patterns, and RESTful APIs, with a basic understanding of front-end development technologies like HTML, CSS, and JavaScript. I have good problem-solving skills, attention to detail, and the ability to work collaboratively in a team. Generally, I am a very enthusiastic and motivated developer eager to learn and grow in my role. I am open to feedback and willing to work hard to develop my skills and make valuable contributions to any development team.
 
 ### 💻 Languages and Tools: 🛠️
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
